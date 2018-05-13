@@ -1,5 +1,5 @@
 @echo off
-setlocal enabledelayedexpa.\n
+setlocal enabledelayedexpansion
 
 set TEMP_PATH=%PATH%
 set PATH="C:\Windows\Microsoft.NET\Framework\v4.0.30319"
