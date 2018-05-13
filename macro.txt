@@ -1,0 +1,5 @@
+ls=dir /d /og $*
+ll=dir /od $*
+cp=copy $*
+mv=move $*
+pwd=cd $*
